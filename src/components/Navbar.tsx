@@ -137,7 +137,6 @@ export const Navbar = () => {
               Github
             </a>
 
-            <ModeToggle />
           </div>
         </NavigationMenuList>
       </NavigationMenu>
